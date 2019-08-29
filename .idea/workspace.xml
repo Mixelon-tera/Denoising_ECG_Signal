@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ed967ad-a8ca-4027-aafc-98e0256ac28f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model10.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model10.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model10.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model11.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model11.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model11.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model12.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model12.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model12.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model13.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model13.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model13.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model14.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model14.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model14.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model15.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model15.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model15.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model16.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model16.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model16.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model17.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model17.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model17.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model2.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model2.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model2.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model20.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model20.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model20.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model21.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model21.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model21.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model22.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model22.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model22.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model23.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model23.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model23.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model24.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model24.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model24.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model3.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model3.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model3.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model4.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model4.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model4.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model5.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model5.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model5.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model6.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model6.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model6.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model7.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model7.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model7.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model8.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model8.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model8.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model9.ckpt.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model9.ckpt.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/model9.ckpt.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/convert_to_records.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/100.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/101.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/102.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/103.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/104.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/105.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/106.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/107.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/108.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/109.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/111.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/112.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/113.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/114.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/115.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/116.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/117.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/118.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/119.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/121.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/122.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/123.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/124.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/200.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/201.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/202.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/203.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/205.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/207.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/208.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/209.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/210.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/212.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/213.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/214.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/215.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/217.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/219.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/220.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/221.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/222.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/223.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/228.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/230.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/231.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/232.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/233.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb-old/234.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/test/103.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/test/105.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/test/111.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/test/116.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/test/122.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/test/205.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/test/213.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/test/219.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/test/223.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/test/230.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/100.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/101.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/102.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/103.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/105.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/111.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/112.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/113.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/114.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/115.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/116.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/118.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/121.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/122.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/201.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/205.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/209.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/210.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/212.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/213.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/219.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/220.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/222.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/223.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/230.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/231.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mitdb/train/234.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/nstdb/bw.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/nstdb/em.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/nstdb/ma.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/denoising_autoencoder_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detect_peaks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="denoising_autoencoder_1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="170" column="75" lean-forward="false" selection-start-line="170" selection-start-column="75" selection-end-line="170" selection-end-column="75" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2465">
+              <caret line="153" column="37" lean-forward="false" selection-start-line="152" selection-start-column="34" selection-end-line="153" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>trainimg</find>
+      <find>genda</find>
+      <find>plot</find>
+      <find>normali</find>
+      <find>noisy</find>
+      <find>getti</find>
+      <find>lowfilt</find>
+      <find>print</find>
+      <find>shape</find>
+      <find>get noise</find>
+      <find>cooldo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/convert_to_records.py" />
+        <option value="$PROJECT_DIR$/../Deep-Learning-with-TensorFlow-master/Chapter05/Python 2.7/denoising_autoencoder_1.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/denoising_autoencoder_1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.denoising_autoencoder_1 (1)">
+    <configuration default="false" name="denoising_autoencoder_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Deep-Learning-with-TensorFlow-master/Chapter05/Python 2.7" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ECG_Tera" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Deep-Learning-with-TensorFlow-master/Chapter05/Python 2.7/denoising_autoencoder_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="convert_to_records" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ECG_Tera" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convert_to_records.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ECG_Tera" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="denoising_autoencoder_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ECG_Tera" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/denoising_autoencoder_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Doctest detect_peaks" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ECG_Tera" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_peaks.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="detect_peaks" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ECG_Tera" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ECG_Tera" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ECG_Tera" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ECG_Tera" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.denoising_autoencoder_1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.convert_to_records" />
+      <item index="2" class="java.lang.String" itemvalue="Python.utils" />
+      <item index="3" class="java.lang.String" itemvalue="Python.denoising_autoencoder_1 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Doctest detect_peaks" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.denoising_autoencoder_1 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.utils" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Doctest detect_peaks" />
+        <item index="3" class="java.lang.String" itemvalue="Python.denoising_autoencoder_1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.convert_to_records" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ed967ad-a8ca-4027-aafc-98e0256ac28f" name="Default" comment="" />
+      <created>1496892796217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496892796217</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctest_detect_peaks - 2017.06.20 at 14h 57m 40s.xml">
+      <configuration name="Doctest detect_peaks" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_detect_peaks - 2017.06.20 at 14h 57m 54s.xml">
+      <configuration name="Doctest detect_peaks" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="733" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44390243" sideWeight="0.503231" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36097562" sideWeight="0.49676898" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28455284" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44390243" sideWeight="0.503231" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41463414" sideWeight="0.49676898" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284553" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28455284" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990228" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="153" column="37" lean-forward="false" selection-start-line="152" selection-start-column="34" selection-end-line="153" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="153" column="37" lean-forward="false" selection-start-line="152" selection-start-column="34" selection-end-line="153" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="153" column="37" lean-forward="true" selection-start-line="152" selection-start-column="34" selection-end-line="153" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6001">
+          <caret line="353" column="89" lean-forward="false" selection-start-line="353" selection-start-column="89" selection-end-line="353" selection-end-column="89" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="88" column="4" lean-forward="false" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5865">
+          <caret line="353" column="89" lean-forward="false" selection-start-line="353" selection-start-column="89" selection-end-line="353" selection-end-column="89" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6001">
+          <caret line="353" column="89" lean-forward="false" selection-start-line="353" selection-start-column="89" selection-end-line="353" selection-end-column="89" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5865">
+          <caret line="353" column="90" lean-forward="false" selection-start-line="353" selection-start-column="90" selection-end-line="353" selection-end-column="90" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6086">
+          <caret line="366" column="5" lean-forward="false" selection-start-line="366" selection-start-column="5" selection-end-line="366" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="120" column="27" lean-forward="false" selection-start-line="120" selection-start-column="22" selection-end-line="120" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="120" column="27" lean-forward="false" selection-start-line="120" selection-start-column="22" selection-end-line="120" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4862">
+          <caret line="289" column="25" lean-forward="false" selection-start-line="289" selection-start-column="25" selection-end-line="289" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="94" column="46" lean-forward="true" selection-start-line="94" selection-start-column="46" selection-end-line="94" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4709">
+          <caret line="277" column="1" lean-forward="false" selection-start-line="277" selection-start-column="1" selection-end-line="277" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="122" column="15" lean-forward="false" selection-start-line="122" selection-start-column="15" selection-end-line="122" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2924">
+          <caret line="172" column="19" lean-forward="true" selection-start-line="172" selection-start-column="19" selection-end-line="172" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="123" column="17" lean-forward="false" selection-start-line="123" selection-start-column="17" selection-end-line="123" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="23" lean-forward="true" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Deep-Learning-with-TensorFlow-master/Chapter05/Python 2.7/denoising_autoencoder_1.py" />
+    <entry file="file://$PROJECT_DIR$/convert_to_records.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="66" lean-forward="false" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convert_to_records.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="61" column="9" lean-forward="false" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="47" column="66" lean-forward="false" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="239" column="0" lean-forward="false" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Deep-Learning-with-TensorFlow-master/Chapter05/Python 2.7/denoising_autoencoder_1.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensorflow-wavenet-master/wavenet/model.py" />
+    <entry file="file://$PROJECT_DIR$/detect_peaks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="943" column="0" lean-forward="false" selection-start-line="943" selection-start-column="0" selection-end-line="943" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="153" column="37" lean-forward="false" selection-start-line="152" selection-start-column="34" selection-end-line="153" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denoising_autoencoder_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="170" column="75" lean-forward="false" selection-start-line="170" selection-start-column="75" selection-end-line="170" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
